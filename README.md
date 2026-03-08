@@ -1,7 +1,6 @@
 # Hi there, I'm Sree Reethika Kasanagottu 👋
 
-Data Analyst | Python, SQL, Snowflake, Power BI, Tableau, AWS | Building Scalable Data Solutions for Stakeholders Who Need Answers, Not Dashboards
-
+Data Analyst | Python, SQL, Snowflake, Power BI, Tableau | Cross-Functional Collaborator | Turning Messy Data into Clear Decisions
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=SQL+%7C+Python+%7C+R;Power+BI+%7C+Tableau;Snowflake+%7C+BigQuery+%7C+Redshift;dbt+%7C+Airflow+%7C+Fivetran;AWS+%7C+Azure+%7C+GCP)](https://git.io/typing-svg)
 
 [![Profile views](https://komarev.com/ghpvc/?username=Reethika30&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Reethika30)
