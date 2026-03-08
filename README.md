@@ -78,8 +78,6 @@ I'm a **Data Analyst** with 3+ years of experience turning raw data into dashboa
 
 ## 🏅 Certifications
 
-- ❄️ SnowPro Advanced: Data Engineer
-- 📊 Microsoft Certified: Power BI Data Analyst Associate
 - ☁️ Oracle Cloud Infrastructure 2025 Data Science Professional
 - ☁️ Oracle Cloud Infrastructure 2025 Generative AI Professional
 
