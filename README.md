@@ -9,10 +9,17 @@ Data Analyst • BI Developer • Pipeline Builder
 ---
 
 ## 👩‍💻 Who I Am
+---
 
-I'm a **Data Analyst** with 3+ years of experience turning raw data into dashboards, pipelines, and insights that help teams make better decisions. I've built executive reporting platforms, automated manual workflows, and delivered analytics across product, finance, and operations teams.
+I'm a Data Science graduate and a **stakeholder-focused data analyst** who loves turning raw, messy data into something people can actually use to make better decisions.
 
-**"Good data work isn't just accurate — it's useful."**
+To me, great analytics isn't just about writing queries. It's about **clarity, trust, and impact**: understanding what someone really needs to know, building the pipeline and dashboard that delivers it reliably, and making sure the numbers tell a story that drives action — not confusion.
+
+I enjoy sitting with cross-functional teams, understanding their pain points firsthand, and then going back to build data products they didn't know they needed but can't imagine working without.
+
+**"Don't just deliver data — deliver confidence in the data."**
+
+That's what I believe in, because the best dashboards aren't remembered for their filters or their refresh speed — they're remembered for the moment a VP said *"now I can finally see what's happening."*
 
 ---
 
