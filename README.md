@@ -1,6 +1,6 @@
 # Hi there, I'm Sree Reethika Kasanagottu 👋
 
-Data Analyst • BI Developer • Pipeline Builder
+Data Analyst | Python, SQL, Snowflake, Power BI, Tableau, AWS | Building Scalable Data Solutions for Stakeholders Who Need Answers, Not Dashboards
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=SQL+%7C+Python+%7C+R;Power+BI+%7C+Tableau;Snowflake+%7C+BigQuery+%7C+Redshift;dbt+%7C+Airflow+%7C+Fivetran;AWS+%7C+Azure+%7C+GCP)](https://git.io/typing-svg)
 
@@ -9,7 +9,6 @@ Data Analyst • BI Developer • Pipeline Builder
 ---
 
 ## 👩‍💻 Who I Am
----
 
 I'm a Data Science graduate and a **stakeholder-focused data analyst** who loves turning raw, messy data into something people can actually use to make better decisions.
 
@@ -59,32 +58,24 @@ That's what I believe in, because the best dashboards aren't remembered for thei
 
 ---
 
-## 📊 GitHub Stats
-
-[![Reethika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reethika30&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Reethika30)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reethika30&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Reethika30)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Reethika30&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
----
-
 ## 🔭 What I'm Working On
 
-- Automated data quality monitoring using dbt, Snowflake, and Airflow
-- Self-service dashboards and governed semantic layers in Power BI
-- Open source contributions to Apache Airflow and Scikit-learn
+- Building automated data quality frameworks that catch issues before stakeholders do
+- Designing self-service dashboards that let teams answer their own questions without filing a ticket
+- Contributing to open source projects like Apache Airflow and Scikit-learn
 
 ## 🌱 What I'm Learning
 
-- Healthcare analytics and clinical data workflows
-- Advanced Tableau and Looker techniques
-- Semantic layer design patterns
+- How healthcare and finance teams think about data differently — and how to build for both
+- Advanced storytelling techniques in Tableau and Power BI beyond the basics
+- Making data governance feel helpful instead of bureaucratic
 
 ---
 
 ## 🏅 Certifications
 
+- ❄️ SnowPro Advanced: Data Engineer
+- 📊 Microsoft Certified: Power BI Data Analyst Associate
 - ☁️ Oracle Cloud Infrastructure 2025 Data Science Professional
 - ☁️ Oracle Cloud Infrastructure 2025 Generative AI Professional
 
