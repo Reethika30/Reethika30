@@ -74,8 +74,6 @@ That's what I believe in, because the best dashboards aren't remembered for thei
 
 ## 🏅 Certifications
 
-- ❄️ SnowPro Advanced: Data Engineer
-- 📊 Microsoft Certified: Power BI Data Analyst Associate
 - ☁️ Oracle Cloud Infrastructure 2025 Data Science Professional
 - ☁️ Oracle Cloud Infrastructure 2025 Generative AI Professional
 
