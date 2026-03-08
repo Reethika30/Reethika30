@@ -1,8 +1,8 @@
 # Hi there, I'm Sree Reethika Kasanagottu 👋
 
-Data Analyst • Data Engineer • Dashboard Builder • Pipeline Architect
+Data Analyst • BI Developer • Pipeline Builder
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Python+%7C+SQL+%7C+R;Snowflake+%7C+BigQuery+%7C+Redshift;Power+BI+%7C+Tableau;dbt+%7C+Airflow+%7C+Fivetran;AWS+%7C+Azure+%7C+GCP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=SQL+%7C+Python+%7C+R;Power+BI+%7C+Tableau;Snowflake+%7C+BigQuery+%7C+Redshift;dbt+%7C+Airflow+%7C+Fivetran;AWS+%7C+Azure+%7C+GCP)](https://git.io/typing-svg)
 
 [![Profile views](https://komarev.com/ghpvc/?username=Reethika30&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Reethika30)
 
@@ -10,25 +10,25 @@ Data Analyst • Data Engineer • Dashboard Builder • Pipeline Architect
 
 ## 👩‍💻 Who I Am
 
-I'm a **Data Analyst** with 3+ years of experience building scalable data pipelines, executive dashboards, and analytical solutions across cloud environments.
+I'm a **Data Analyst** with 3+ years of experience turning raw data into dashboards, pipelines, and insights that help teams make better decisions. I've built executive reporting platforms, automated manual workflows, and delivered analytics across product, finance, and operations teams.
 
-I believe the best analytics work isn't just technically sound — it's **clear, reusable, and built to empower the people making decisions.** I enjoy partnering with cross-functional stakeholders, understanding their real problems, and turning messy data into governed, self-service assets that teams actually trust.
-
-**"Build data products people rely on — not reports they ignore."**
+**"Good data work isn't just accurate — it's useful."**
 
 ---
 
 ## 🛠 Skills
 
-### Languages & Analytics
-[![](https://skillicons.dev/icons?i=python,r)](https://skillicons.dev)
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### BI & Visualization
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### Data Platforms & Warehousing
+### Databases & Warehousing
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
@@ -39,8 +39,16 @@ I believe the best analytics work isn't just technically sound — it's **clear,
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Fivetran](https://img.shields.io/badge/Fivetran-0073FF?style=for-the-badge&logoColor=white)
 
-### Cloud & DevOps
-[![](https://skillicons.dev/icons?i=aws,azure,gcp,docker,git)](https://skillicons.dev)
+### Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### Tools & Collaboration
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
@@ -56,31 +64,31 @@ I believe the best analytics work isn't just technically sound — it's **clear,
 
 ## 🔭 What I'm Working On
 
-- Automated data quality frameworks using Python, SQL, dbt, and Snowflake
-- Self-service analytics platforms and semantic layer design
+- Automated data quality monitoring using dbt, Snowflake, and Airflow
+- Self-service dashboards and governed semantic layers in Power BI
 - Open source contributions to Apache Airflow and Scikit-learn
 
 ## 🌱 What I'm Learning
 
-- Advanced Tableau techniques and healthcare analytics
-- Real-time streaming with Kafka and Kinesis
-- Data Mesh architecture patterns
+- Healthcare analytics and clinical data workflows
+- Advanced Tableau and Looker techniques
+- Semantic layer design patterns
 
 ---
 
 ## 🏅 Certifications
 
-- ☁️ Oracle Cloud Infrastructure 2025 Certified Data Science Professional
-- ☁️ Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
-- ❄️ SnowPro Advanced: Data Engineer Certification
+- ❄️ SnowPro Advanced: Data Engineer
 - 📊 Microsoft Certified: Power BI Data Analyst Associate
+- ☁️ Oracle Cloud Infrastructure 2025 Data Science Professional
+- ☁️ Oracle Cloud Infrastructure 2025 Generative AI Professional
 
 ---
 
 ## 🤝 Connect with Me
 
-[![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sree-reethika/)
-[![](https://skillicons.dev/icons?i=gmail)](mailto:reethikakasanagottu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sree-reethika/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reethikakasanagottu@gmail.com)
 
 ---
 
