@@ -1,7 +1,7 @@
 # Hi there, I'm Sree Reethika Kasanagottu 👋
 
 Data Analyst | Python, SQL, Snowflake, Power BI, Tableau | Cross-Functional Collaborator | Turning Messy Data into Clear Decisions
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=SQL+%7C+Python+%7C+R;Power+BI+%7C+Tableau;Snowflake+%7C+BigQuery+%7C+Redshift;dbt+%7C+Airflow+%7C+Fivetran;AWS+%7C+Azure+%7C+GCP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=SQL+%7C+Python+%7C+R;Power+BI+%7C+Tableau;Snowflake+%7C+BigQuery+%7C+Redshift;dbt+%7C+Airflow+%7C+Fivetran;AWS+%7C+Azure+%7C+GCP+%7C+Databricks)](https://git.io/typing-svg)
 
 [![Profile views](https://komarev.com/ghpvc/?username=Reethika30&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Reethika30)
 
@@ -27,6 +27,7 @@ That's what I believe in, because the best dashboards aren't remembered for thei
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-4B0082?style=for-the-badge&logo=scipy&logoColor=white)
 
 ### BI & Visualization
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -48,6 +49,7 @@ That's what I believe in, because the best dashboards aren't remembered for thei
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### Tools & Collaboration
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
